@@ -1,11 +1,7 @@
 @media only screen and (max-width: 600px) {
-    .main{
-        height: unset;
-    }
-    
     .container {
         width: 350px;
-        height: 700px;
+        height: 650px;
         flex-direction: column;
     }
 
