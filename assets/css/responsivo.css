@@ -1,0 +1,30 @@
+@media only screen and (max-width: 600px) {
+    .main{
+        height: unset;
+    }
+    
+    .container {
+        width: 350px;
+        height: 700px;
+        flex-direction: column;
+    }
+
+    .img-perfume {
+        width: 350px;
+        height: 250px;
+    }
+    .img-perfume.desktop {
+        display: none;
+    }
+    .img-perfume.mobile {
+        display: block;
+    }
+    
+    .description {
+        margin: 0 30px;
+    }
+
+    .btn-add-cart {
+        width: 295px;
+    }
+}
