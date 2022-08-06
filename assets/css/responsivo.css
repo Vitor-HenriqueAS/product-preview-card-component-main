@@ -17,10 +17,6 @@
     }
     
     .description {
-        margin: 0 30px;
-    }
-
-    .btn-add-cart {
-        width: 295px;
+        margin: 32px 30px;
     }
 }
